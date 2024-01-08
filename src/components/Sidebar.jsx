@@ -1,14 +1,14 @@
 import React from "react";
-
+import logo from '../components/logo.png';
 const ProfileHeader = () => {
   return (
     <header className="flex space-x-3 px-[8.5px]">
       <img
-        src="/assets/image.png"
+        src={logo}
         alt="user profile"
         width={39}
         height={39}
-        className=" rounded"
+        className="rounded"
       />
       <aside className="grow space-y-1">
         <h1 className="text-white font-medium">Nishyan</h1>
