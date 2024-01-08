@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/dukaan/static/css/main.8b6c1e8a.css",
-    "main.js": "/dukaan/static/js/main.1f2560c9.js",
+    "main.js": "/dukaan/static/js/main.b3bd9641.js",
+    "static/media/logo.png": "/dukaan/static/media/logo.a7eab759424e913953ef.png",
     "index.html": "/dukaan/index.html",
     "main.8b6c1e8a.css.map": "/dukaan/static/css/main.8b6c1e8a.css.map",
-    "main.1f2560c9.js.map": "/dukaan/static/js/main.1f2560c9.js.map"
+    "main.b3bd9641.js.map": "/dukaan/static/js/main.b3bd9641.js.map"
   },
   "entrypoints": [
     "static/css/main.8b6c1e8a.css",
-    "static/js/main.1f2560c9.js"
+    "static/js/main.b3bd9641.js"
   ]
 }
