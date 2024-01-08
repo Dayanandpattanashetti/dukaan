@@ -33,7 +33,7 @@ const SearchBar = () => {
 const Navbar = () => {
   return (
     <nav className="bg-white flex w-full items-center px-8 py-3 space-x-4 sticky top-0 z-10">
-      <p>Payments</p>
+      <p className="font-bold text-xl">Payouts</p>
       <aside className="flex items-center space-x-2.5 grow">
         <svg
           width="14"

@@ -130,7 +130,7 @@ const AmountCard = ({ processed }) => {
   );
 };
 
-const OverviewCards = () => {
+const Overview = () => {
   return (
     <ul className="flex items-start space-x-5">
       <PayoutCard />
@@ -140,4 +140,4 @@ const OverviewCards = () => {
   );
 };
 
-export default OverviewCards;
+export default Overview;

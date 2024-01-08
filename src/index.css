@@ -1,10 +1,11 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
 
 
 :root {
-    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
     font-weight: 400;
   
@@ -14,12 +15,10 @@
     -moz-osx-font-smoothing: grayscale;
   }
   
-  /* Hide scrollbar for Firefox */
   * {
     scrollbar-width: none;
   }
   
-  /* Hide scrollbar for Chrome, Safari, and Edge */
   *::-webkit-scrollbar {
     display: none;
   }
